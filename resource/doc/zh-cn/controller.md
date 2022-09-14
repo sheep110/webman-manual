@@ -96,6 +96,7 @@ class FooController
 
 > **注意**
 > 复用控制器时，控制器中的成员变量也同样会被保存在内容中，因此需要避免以下使用形式，例如
+
 ```php
 <?php
 namespace app\controller;
